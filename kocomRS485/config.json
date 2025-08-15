@@ -63,7 +63,15 @@
       },
       {
         "name": "bedroom",
-        "number": 1
+        "number": 2
+      },
+      {
+        "name": "room1",
+        "number": 2
+      },
+      {
+        "name": "room2",
+        "number": 2
       },
       {
         "name": "kitchen",
@@ -73,7 +81,7 @@
     "KOCOM_PLUG_SIZE": [
       {
         "name": "livingroom",
-        "number": 3
+        "number": 2
       },
       {
         "name": "bedroom",
@@ -89,18 +97,21 @@
       },
       {
         "name": "kitchen",
-        "number": 3
+        "number": 2
       }
     ],
     "KOCOM_ROOM": [
       "livingroom",
       "bedroom",
+      "room1",
+      "room2",
       "kitchen"
     ],
     "KOCOM_ROOM_THERMOSTAT": [
       "livingroom",
       "bedroom",
-      "kitchen"
+      "room1",
+      "room2"
     ]
   },
   "schema": {
